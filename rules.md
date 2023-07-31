@@ -6,4 +6,4 @@ You aren't smarter, than the compiler.
 ## 2. Use Buildins
 > https://gcc.gnu.org/onlinedocs/gcc/Integer-Overflow-Builtins.html
 
-No fancy overflow checks needed, if GCC already gives us that.  
+No fancy overflow checks needed, if GCC already provides that.  
