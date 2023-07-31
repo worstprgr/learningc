@@ -1,6 +1,6 @@
 # Rules  
 ## 1. Compiler = Smart
-You aren't smarter, than the compiler.  
+You aren't smarter than the compiler.  
 <br>
 
 ## 2. Use Buildins
